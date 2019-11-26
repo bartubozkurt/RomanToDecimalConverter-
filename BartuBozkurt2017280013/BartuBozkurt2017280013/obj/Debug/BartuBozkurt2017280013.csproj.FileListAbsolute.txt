@@ -1,0 +1,10 @@
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\bin\Debug\BartuBozkurt2017280013.exe.config
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\bin\Debug\BartuBozkurt2017280013.exe
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\bin\Debug\BartuBozkurt2017280013.pdb
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.csprojAssemblyReference.cache
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.Form1.resources
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.Properties.Resources.resources
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.csproj.GenerateResource.cache
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.csproj.CoreCompileInputs.cache
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.exe
+C:\Users\bartu\OneDrive\Masaüstü\BartuBozkurt2017280013\BartuBozkurt2017280013\obj\Debug\BartuBozkurt2017280013.pdb
